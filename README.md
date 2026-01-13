@@ -137,7 +137,7 @@ All data used is simulated and does not represent any real organization.
 ---
 
 ## 👤 Author
-**Chandrakant Kashinath Pdole**  
+**Chandrakant Kashinath Padole**  
 Power BI Developer  
 linkedin.com/in/chandrakant-padole-61b791375 
 github.com/Chandrakant1998
